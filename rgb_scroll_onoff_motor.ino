@@ -18,7 +18,7 @@ const byte colors[][3] =
 {
   {100, 255, 0}, // green
   {0, 0, 255}, // blue
-  {255, 255, 0}, // yellow but not a good one
+  {255, 255, 0}, // yellow
   {255, 100, 0}, // orange
   {255, 0, 0}, // red
 };
