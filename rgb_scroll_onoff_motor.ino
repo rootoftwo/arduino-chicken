@@ -65,7 +65,7 @@ bool toggleButtonWasDown = false;
 
 // loop() is called continuously:
 // when the execution reaches the end of the function, 
-// it starts again at the begining
+// it starts again at the beginning
 void loop() 
 {
 
