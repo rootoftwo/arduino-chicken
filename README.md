@@ -22,6 +22,6 @@ We imagine any number of other groups and individuals could build on this system
 
 rootoftwo: 
 Cézanne Charles + John Marshall founded and co-direct the hybrid design studio, rootoftwo in 1998. They make art and design experiences for the public realm. Their works specifically attempt to disrupt and undermine existing systems through humor, play, interaction and participation. Their works create a condition where the here and now, and the future can be perceived differently.
-http:/rootoftwo.com
+http://rootoftwo.com/
 
 Thanks to: Creative Foundation, Ltd.; John S. and James L. Knight Foundation; University of Michigan Office of Research; Penny W. Stamps School of Art & Design; EES Design LLC.; YetiWeurks, Ltd.; Pulsar Light Ltd.; Phil Vander Veen; Travis Martin.
