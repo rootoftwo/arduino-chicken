@@ -10,9 +10,9 @@ Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 
 
 // ---LED---
-#define R_PIN 6 // via R to led cathode
-#define G_PIN 5 // via G to led cathode
-#define B_PIN 3 // via B to led cathode
+#define R_PIN 6 // via R to led anode
+#define G_PIN 5 // via G to led anode
+#define B_PIN 3 // via B to led anode
 
 const byte colors[][3] = 
 {
